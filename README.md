@@ -20,4 +20,5 @@
 ## INSTALAR APLICACION
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/mireyalopezdev/Java-Calculadora.git](https://github.com/mireyalopezdev/Java-Calculadora.git)
+   git clone https://github.com/mireyalopezdev/Java-Calculadora.git
+   ```
